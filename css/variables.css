@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Grandstander:wght@500&family=Roboto&display=swap');
+
+:root {
+    /* General */
+    --clr-bg-main: #F2BB16;
+
+    /* Item */
+    --clr-bg-item: #F2A007;
+    --clr-fg-item: #261501;
+
+    --max-width-item: 800px;
+    --padding-item: 2em;
+    --border-radius-item: 1em;
+
+    --font-family-item-header: 'Grandstander', cursive;
+    --font-family-item-main: 'Roboto', sans-serif;
+}

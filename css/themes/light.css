@@ -1,0 +1,30 @@
+:root {
+    /* Crossword grid*/
+    --border-width-grid: 2px;
+    --clr-border-grid: #333333;
+
+    /* Crossword square */
+    --width-square: 4rem;
+    --border-width-square: 1px;
+    --clr-border-square: #333333;
+    --clr-bg-square: #F2F2F2; 
+
+    /* Crossword key */
+    --font-family-key: 'Comic Neue', sans-serif;
+    --font-size-key: 0.9rem;
+
+    --clr-bg-key: #fdfdfd; 
+    --clr-fg-key: #444444;
+
+    /* Crossword solution */
+    --font-family-solution: 'Comic Neue', sans-serif;
+    --font-size-solution: 3rem; 
+
+    --clr-bg-solution: white;
+    --clr-fg-solution--default: rgb(0, 0, 128);
+    --clr-fg-solution--correct: green;
+    --clr-fg-solution--wrong: darkred;
+
+    --clr-bg-active-square: #F2A007;
+    --clr-bg-active-slot: #D8EBF2;
+}
