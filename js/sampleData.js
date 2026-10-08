@@ -39,7 +39,7 @@ const SAMPLE_DATA = [
                     keys: [
                         {
                             span: 3,
-                            text: 'smila'
+                            text: 'flina'
                         },
                         {
                             span: 5,
